@@ -1,6 +1,6 @@
 ## Olá, sou o Samuel 👋
 
-<img src="https://i.pinimg.com/736x/39/b9/48/39b9488712432d67ce879b14317dcb92.jpg" width="20"/>
+<img src="https://i.pinimg.com/736x/39/b9/48/39b9488712432d67ce879b14317dcb92.jpg" width="60"/>
 <!--
 **samuelmachadosenai/samuelmachadosenai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

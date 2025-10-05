@@ -1,5 +1,6 @@
-## Hi there 👋
+## Olá, sou o Samuel 👋
 
+(https://i.pinimg.com/736x/39/b9/48/39b9488712432d67ce879b14317dcb92.jpg)[shrek]
 <!--
 **samuelmachadosenai/samuelmachadosenai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,8 @@
 ## Olá, sou o Samuel 👋
 
+<img src="tps://i.pinimg.com/736x/39/b9/48/39b9488712432d67ce879b14317dcb92.jpg" width="20" />
+
+
 ![shrek dos labios de mel](https://i.pinimg.com/736x/39/b9/48/39b9488712432d67ce879b14317dcb92.jpg)
 <!--
 **samuelmachadosenai/samuelmachadosenai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

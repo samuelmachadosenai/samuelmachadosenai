@@ -1,4 +1,4 @@
-## Olá, sou o Samuel 👋
+## Olá, eu sou o Samuel 👋
 
 <img src="https://i.pinimg.com/736x/39/b9/48/39b9488712432d67ce879b14317dcb92.jpg" width="100"/>
 <!--
